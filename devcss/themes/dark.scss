@@ -1,0 +1,22 @@
+$primary: #060504;
+$secondary: #a193e5;
+$info: #a3917c;
+$error: #d32752;
+$background: #0f0f0e;
+
+
+.dark {
+    background-color: $background;
+    
+    nav, footer{
+        background-color: $primary;
+        color: white;
+    }
+    .banner > div > div.col-12-xs.col-5-md.p-4 > h2 > div.font-xl, .walkers > div.column.justify-center.align-center{
+        color: white;
+    }
+    .card{
+        background-color: #ffedcc;
+    }
+}
+
