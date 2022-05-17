@@ -21,6 +21,25 @@ Then run the library using the command:
 ```bash
 gulp
 ```
+## Set up gulp 
+
+Install sass: 
+
+```bash
+npm i sass
+```
+Install gulp: 
+
+```bash
+npm install --global gulp-cli
+```
+
+Install gulp-sass and gulp-purgecss: 
+
+```bash
+npm i gulp-sass
+npm i gulp-purgecss
+```
 
 
 
